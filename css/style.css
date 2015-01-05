@@ -137,18 +137,13 @@ text-transform: uppercase;
 #email a{
   color: #000;
 }
-/*@media (max-width: 768px) {  */
-
 @media (max-width: 840px) {  
-
 .container {
   width: 100%;
   /*border: 1px solid red;*/
 }
 }
-
 @media (max-width: 800px) {  
-
 .container {
   width: 100%;
   /*border: 1px solid red;*/
@@ -165,14 +160,11 @@ text-transform: uppercase;
   margin-left: 69px;
   margin-top: 24px;
 }
-
-
 #Office-Info3 img{
   float:none;
   margin-left: 2px;
   margin-bottom: 14px;
 }
-
 #home-content p, h4{
   padding-left: 2px;
    padding-right: 2px;
@@ -188,29 +180,18 @@ text-transform: uppercase;
   padding-bottom: 0px;
   margin-top: 30px;
 }
-
 }
-
-
-
-
 @media (max-width: 768px) {  
-
-
-
 #Office-Info3 {
   text-align: left;
   margin-left: 69px;
   margin-top: 24px;
 }
-
-
 #Office-Info3 img{
   float:none;
   margin-left: 2px;
   margin-bottom: 14px;
 }
-
 #home-content p, h4{
   padding-left: 2px;
    padding-right: 2px;
@@ -218,7 +199,6 @@ text-transform: uppercase;
 #full-name {
   padding-left: 12px;
 }
-
 #navTop {
   margin-top: 24px;
   padding-left: 12px;
@@ -234,11 +214,4 @@ text-transform: uppercase;
   padding-bottom: 0px;
   margin-top: 30px;
 }
-
-
-
-
-
-
-
 }
